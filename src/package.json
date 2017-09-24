@@ -1,0 +1,28 @@
+{
+  "name": "annuityng",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milansahoo1990/awesomeng.git"
+  },
+  "author": {
+    "name": "Milan Sahoo",
+    "email": "milansahoo2010@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milansahoo1990/awesomeng.git/issues"
+  },
+  "main": "annuityng.umd.js",
+  "module": "annuityng.js",
+  "jsnext:main": "annuityng.js",
+  "typings": "annuityng.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
